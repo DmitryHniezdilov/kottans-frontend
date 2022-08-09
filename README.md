@@ -14,13 +14,13 @@ The assignment was interesting for me. Linux survival is a good name for an app:
 ![linux screen](/task_linux_cli/task_linux_cli.png)
 
 </details>
-<br>
 
 ***
 
 ## Git Collaboration
 
 Thank you for the interactive simulator. Now I understand the difference between rebase and merge. Simulator good showed the concept of the Git for me.
+
 <details>
 <summary>Screens from LearnGitBranching</summary>
 
@@ -40,7 +40,6 @@ Thank you for the interactive simulator. Now I understand the difference between
 ![Screen Git Collaboration 3-8](/task_git_collaboration/3_8.png)
 
 </details>
-<br>
 
 ***
 
@@ -53,6 +52,19 @@ I saw useful information in this assignment. For myself, I highlighted the <embe
 ![codecademy.com, HTML](/task_html_css_intro/HTML.png)
 ![codecademy.com, CSS](/task_html_css_intro/CSS.png)
 </details>
-<br>
+
+***
+
+## Responsive Web Design
+
+Thanks for the resources. I was surprised by some of the notes in the article "11 things I learned reading the flexbox spec". I will use this information in the future.
+
+<details>
+<summary>Screens from games</summary>
+
+![Flexbox Froggy screen](/task_responsive_web_design/flexbox-foggy.png)
+![Grid Garden screen](/task_responsive_web_design/grid-garden.png)
+
+</details>
 
 ***
