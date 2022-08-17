@@ -49,8 +49,10 @@ I saw useful information in this assignment. For myself, I highlighted the <embe
 
 <details>
 <summary>Screens from codecademy.com</summary>
-![codecademy.com, HTML](/task_html_css_intro/HTML.png)
-![codecademy.com, CSS](/task_html_css_intro/CSS.png)
+
+![codecademy.com, HTML](/task_html_css_intro/html.png)
+![codecademy.com, CSS](/task_html_css_intro/css.png)
+
 </details>
 
 ***
