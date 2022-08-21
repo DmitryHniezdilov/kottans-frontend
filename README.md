@@ -45,7 +45,7 @@ Thank you for the interactive simulator. Now I understand the difference between
 
 ## Intro to HTML and CSS
 
-I saw useful information in this assignment. For myself, I highlighted the <embed> tag.
+I saw useful information in this assignment. For myself, I highlighted the &lt;embed&gt; tag.
 
 <details>
 <summary>Screens from codecademy.com</summary>
@@ -66,6 +66,25 @@ Thanks for the resources. I was surprised by some of the notes in the article "1
 
 ![Flexbox Froggy screen](/task_responsive_web_design/flexbox-foggy.png)
 ![Grid Garden screen](/task_responsive_web_design/grid-garden.png)
+
+</details>
+
+***
+
+## JS Basics
+
+Introduction to Javascript does a good job of showing the basic concepts of the language. During the FreeCodeCamp modules, I saw a lot of good assignments for practical problem-solving. It was interesting, I will come back to FreeCodeCamp when I am looking for solutions to new tasks.
+
+<details>
+<summary>JS Basics Screens</summary>
+
+![JS intro screen](/task_js_basics/js-intro.png)
+![Basic JavaScript screen](/task_js_basics/js-basic.png)
+![ES6 Challenges screen](/task_js_basics/js-es6.png)
+![Basic Data Structures screen](/task_js_basics/js-basic-data-struct.png)
+![Basic Algorithm Scripting screen](/task_js_basics/js-basic-alg-script.png)
+![Functional Programming screen](/task_js_basics/js-func-pr.png)
+![Algorithm Scripting Challenges screen](/task_js_basics/js-intermed-alg-script.png)
 
 </details>
 
