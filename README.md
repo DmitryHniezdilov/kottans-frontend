@@ -71,6 +71,16 @@ Thanks for the resources. I was surprised by some of the notes in the article "1
 
 ***
 
+## HTML & CSS practice: Hooli-style Popup
+
+This practice has shown me that I need to be more careful when checking my code before creating PR and asking students in the chat room. I used the css-grid property for the grid in the popup and was surprised by the limitations of this method.
+
+[Demo](https://dmitryhniezdilov.github.io/task-popup/) |
+[Code base](https://github.com/DmitryHniezdilov/task-popup) |
+[PR #131](https://github.com/kottans/frontend-2022-homeworks/pull/131)
+
+***
+
 ## JS Basics
 
 Introduction to Javascript does a good job of showing the basic concepts of the language. During the FreeCodeCamp modules, I saw a lot of good assignments for practical problem-solving. It was interesting, I will come back to FreeCodeCamp when I am looking for solutions to new tasks.
