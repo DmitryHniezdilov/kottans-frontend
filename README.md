@@ -2,7 +2,7 @@
 
 Hi, my name is **Dmitry**. I have some developing practice and want to improve my knowledge and skills. Starting from a course about Git it's a useful beginning.
 
-***
+---
 
 ## Linux, Command Line, HTTP Tools
 
@@ -15,7 +15,7 @@ The assignment was interesting for me. Linux survival is a good name for an app:
 
 </details>
 
-***
+---
 
 ## Git Collaboration
 
@@ -41,7 +41,7 @@ Thank you for the interactive simulator. Now I understand the difference between
 
 </details>
 
-***
+---
 
 ## Intro to HTML and CSS
 
@@ -55,7 +55,7 @@ I saw useful information in this assignment. For myself, I highlighted the &lt;e
 
 </details>
 
-***
+---
 
 ## Responsive Web Design
 
@@ -69,17 +69,18 @@ Thanks for the resources. I was surprised by some of the notes in the article "1
 
 </details>
 
-***
+---
 
 ## HTML & CSS practice: Hooli-style Popup
 
 This practice has shown me that I need to be more careful when checking my code before creating PR and asking students in the chat room. I used the css-grid property for the grid in the popup and was surprised by the limitations of this method.
+Thanks to the mentor for the review [A-Ostrovnyy](https://github.com/A-Ostrovnyy).
 
 [Demo](https://dmitryhniezdilov.github.io/task-popup/) |
 [Code base](https://github.com/DmitryHniezdilov/task-popup) |
 [PR #131](https://github.com/kottans/frontend-2022-homeworks/pull/131)
 
-***
+---
 
 ## JS Basics
 
@@ -98,4 +99,57 @@ Introduction to Javascript does a good job of showing the basic concepts of the 
 
 </details>
 
-***
+---
+
+## DOM
+
+After this task, I understand the advantages of js frameworks. The article "The Basics of DOM Manipulation in Vanilla JavaScript" from the supplementary material helped me with this task. Thanks to the mentor for the review [A-Ostrovnyy](https://github.com/A-Ostrovnyy).
+
+<details>
+<summary>DOM Screens</summary>
+
+![Functional Programming screen](/task_js_dom/js-dom.png)
+![Algorithm Scripting Challenges screen](/task_js_dom/js-intermed-alg-script.png)
+
+</details>
+
+[Demo](https://dmitryhniezdilov.github.io/task-js-dom/) |
+[Code base](https://github.com/DmitryHniezdilov/task-js-dom) |
+[PR #313](https://github.com/kottans/frontend-2022-homeworks/pull/313)
+
+---
+
+## A Tiny JS World (js pre OOP)
+
+In this task I understood basic OOP principes. Thanks for the review [artem-trubin](https://github.com/artem-trubin).
+
+[Code base](https://github.com/DmitryHniezdilov/task-a-tiny-JS-world/tree/task-a-tiny-JS-world) |
+[PR #351](https://github.com/kottans/frontend-2022-homeworks/pull/351)
+
+---
+
+## Object Oriented JS (Frogger game)
+
+In this task I made a Frogger on js prototype syntax. It wasn't easy. Thanks to the mentor for the review [OleksiyRudenko](https://github.com/OleksiyRudenko).
+
+[Demo](https://dmitryhniezdilov.github.io/js-oop-frogger/) |
+[Code base](https://github.com/DmitryHniezdilov/js-oop-frogger/tree/task-js-oop-frogger/) |
+[PR #499](https://github.com/kottans/frontend-2022-homeworks/pull/499)
+
+---
+
+## A Tiny JS World (OOP Exercise)
+
+In this task I got to know basic js class syntax.
+
+[Demo](https://dmitryhniezdilov.github.io/task-a-tiny-JS-world/) |
+[Code base](https://github.com/dmitryhniezdilov/task-a-tiny-JS-world/blob/gh-pages/index.js)
+
+---
+
+## Memory – Pair Game
+
+In the process of performing this task, I better understood how the event loop works.
+
+[Demo](https://dmitryhniezdilov.github.io/memory-pair-game/) |
+[Code base](https://github.com/DmitryHniezdilov/memory-pair-game)
